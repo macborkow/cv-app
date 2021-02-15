@@ -1,0 +1,23 @@
+.resumeBody {
+  border: 2px solid black;
+  display: block;
+  width: 80vw;
+  margin: 5vh auto;
+}
+
+.contactDetails {
+  position: relative;
+  text-align: left;
+  left: 55vw;  
+}
+
+.resumeSection {
+  background-color: gray;
+  margin: 1vh auto;
+}
+
+.resumeSection input, .resumeSection input::placeholder {
+  background-color: gray;
+  color: white;
+  margin: auto
+}
